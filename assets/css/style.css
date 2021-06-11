@@ -1,0 +1,50 @@
+nav{
+    background: #28A745;
+}
+
+.logonav {
+    height: 30px;
+}
+
+.card-title , card-text{
+    color:#212529;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+span{
+    color: #28A745;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.formulario {
+   background: #28A745;
+}
+
+.cupones{
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.btn-primary {
+    color:#212529;
+    background-color: #F8F9FA;
+    border-color: #DDDDDD;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.cupponfooter {
+    height:30px ;
+}
+
+.precios {
+    font-size: 1.313rem;
+    font-weight: 300;
+    color: #707070;
+}
+
